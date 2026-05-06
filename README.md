@@ -2,7 +2,7 @@
 
 Applicazione full-stack API-based sviluppata per la gestione di pazienti e appuntamenti in ambito sanitario.
 
-Il progetto è stato realizzato come elaborato per il Project Work PW16 e simula una piattaforma digitale pensata per una clinica privata.
+Il progetto è stato realizzato come elaborato per il Project Work 16 e simula una piattaforma digitale pensata per una clinica privata.
 
 ## Tecnologie utilizzate
 - HTML
