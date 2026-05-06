@@ -1,4 +1,4 @@
-# HealthTrack
+# GioSalus
 
 Applicazione full-stack API-based sviluppata per la gestione di pazienti e appuntamenti in ambito sanitario.
 
